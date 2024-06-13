@@ -4,7 +4,11 @@ SESSION NUMBER LL2011
 
 Thu 6/27 at 1:30pm
 
-Faculty:
+### Requirements
+
+Laptop or iPad is best -- will be working in Google Chrome / Safari
+
+### Faculty
 
 - Adam Flanders
 - Matthew Hanna
