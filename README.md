@@ -15,17 +15,22 @@ Laptop or iPad is best -- will be working in Google Chrome / Safari
 - Veronica Rotemberg
 - George Shih
 
-Outline:
+## Outline
 
-1. Overview of LLMs in Healthcare (10-15 min)
+## 1. Overview of LLMs in Healthcare (10-15 min)
 
-2. Hands-on Multimodal LLMs (GPT-4o)
+George Shih
 
-Radiology (Adam Flanders)
+## 2. Hands-on Multimodal LLMs (GPT-4o)
 
-Pathology (Matthew Hanna)
+### Radiology (Adam Flanders)
 
-Dermatology (Veronica Rotemberg)
+### Pathology (Matthew Hanna)
 
-3. Discussion
+### Dermatology (Veronica Rotemberg)
+
+## 3. Discussion
+
+Open discussion for multimodal LLM use cases in healthcare
+
 
