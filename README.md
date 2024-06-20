@@ -31,7 +31,7 @@ George Shih
 
 https://siim.md.ai/chat/share/report_bX6o3mbvle
 
-### Case 2
+#### Case 2
 
 https://siim.md.ai/chat/share/report_nYyonAJE4B
 
