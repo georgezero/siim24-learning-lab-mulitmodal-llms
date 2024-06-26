@@ -19,7 +19,7 @@ Laptop or iPad is best -- will be working in Google Chrome / Safari
 
 ## Outline
 
-## 1. Overview of LLMs in Healthcare (10-15 min)
+## 1. Overview of LLMs in Healthcare (20 min)
 
 George Shih
 
@@ -27,19 +27,19 @@ George Shih
 
 ### Radiology (Adam Flanders)
 
-#### Case 1 (my neck is killing me)
+#### Case 1: My neck is killing me
 
 https://siim.md.ai/chat/share/report_bX6o3mbvle
 
-#### Case 2 (no good deed....)
+#### Case 2: No good deed....
 
 https://siim.md.ai/chat/share/report_nYyonAJE4B
 
-#### Case 3 (having a bad day)
+#### Case 3: Having a bad day
 
 https://siim.md.ai/chat/share/report_XbL5jPJEnB
 
-#### Case 4 (Stop distracting me!)
+#### Case 4: Stop distracting me!
 
 https://siim.md.ai/chat/share/report_pbxvbx1oKG
 
@@ -59,23 +59,23 @@ https://siim.md.ai/chat/share/report_gGJvawoDR4
 
 ### Dermatology (Veronica Rotemberg)
 
-#### Case 1
+#### Case 1: Mucosal challenges
 
 https://siim.md.ai/chat/share/report_3nW5WZoKY1
 
-#### Case 2
+#### Case 2: Pyogenic confusion
 
 https://siim.md.ai/chat/share/report_j78EPqoQmq
 
-#### Case 3 (this one IS a melanoma):
+#### Case 3: Is that an irregular border?
 
 https://siim.md.ai/chat/share/report_gX2EG7KE4W
 
-#### Case 4 (this is a very obvious melanoma)
+#### Case 4: Across the room diagnosis
 
 https://siim.md.ai/chat/share/report_N7K5lKKoMD
 
-#### Case 5
+#### Case 5: A Hairy Situation
 
 https://siim.md.ai/chat/share/report_jek5YKNEb1
 
@@ -91,14 +91,14 @@ https://siim.md.ai/chat/share/report_gGJvawoDR4
 Open discussion for multimodal LLM use cases in healthcare
 
 
---
 ## Contact
 
 ```contact
 george@xsd.ai
 ```
 
---
+## QR Code
+
 (QR code for this page / repository)
 
 ![image](https://github.com/georgezero/siim24-learning-lab-mulitmodal-llms/assets/12178283/9ba217a3-4018-4426-b54e-4f5d8fd36550)
