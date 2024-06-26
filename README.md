@@ -27,19 +27,19 @@ George Shih
 
 ### Radiology (Adam Flanders)
 
-#### Case 1
+#### Case 1 (my neck is killing me)
 
 https://siim.md.ai/chat/share/report_bX6o3mbvle
 
-#### Case 2
+#### Case 2 (no good deed....)
 
 https://siim.md.ai/chat/share/report_nYyonAJE4B
 
-#### Case 3
+#### Case 3 (having a bad day)
 
 https://siim.md.ai/chat/share/report_XbL5jPJEnB
 
-#### Case 4
+#### Case 4 (Actually I feel fine)
 
 https://siim.md.ai/chat/share/report_pbxvbx1oKG
 
