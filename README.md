@@ -27,64 +27,38 @@ George Shih
 
 ### Radiology (Adam Flanders)
 
-#### Case 1: My neck is killing me
+#### Case 1: [My neck is killing me](https://siim.md.ai/chat/share/report_bX6o3mbvle)
 
-https://siim.md.ai/chat/share/report_bX6o3mbvle
+#### Case 2: [No good deed....](https://siim.md.ai/chat/share/report_nYyonAJE4B)
 
-#### Case 2: No good deed....
+#### Case 3: [Having a bad day](https://siim.md.ai/chat/share/report_XbL5jPJEnB)
 
-https://siim.md.ai/chat/share/report_nYyonAJE4B
-
-#### Case 3: Having a bad day
-
-https://siim.md.ai/chat/share/report_XbL5jPJEnB
-
-#### Case 4: Stop distracting me!
-
-https://siim.md.ai/chat/share/report_pbxvbx1oKG
+#### Case 4: [Stop distracting me!](https://siim.md.ai/chat/share/report_pbxvbx1oKG)
 
 ### Pathology (Matthew Hanna)
 
-#### Case 1: Is that a lump?
+#### Case 1: [Is that a lump?](https://siim.md.ai/chat/share/report_43D5B0xEeM)
 
-https://siim.md.ai/chat/share/report_43D5B0xEeM
+#### Case 2: [Going back to Gleason](https://siim.md.ai/chat/share/report_2akEeNnowl)
 
-#### Case 2: Going back to Gleason
-
-https://siim.md.ai/chat/share/report_2akEeNnowl
-
-#### Case 3: Polyps polyp polyps
-
-https://siim.md.ai/chat/share/report_gGJvawoDR4
+#### Case 3: [Polyps polyp polyps](https://siim.md.ai/chat/share/report_gGJvawoDR4)
 
 ### Dermatology (Veronica Rotemberg)
 
-#### Case 1: Mucosal challenges
+#### Case 1: [Mucosal challenges](https://siim.md.ai/chat/share/report_3nW5WZoKY1)
 
-https://siim.md.ai/chat/share/report_3nW5WZoKY1
+#### Case 2: [Pyogenic confusion](https://siim.md.ai/chat/share/report_j78EPqoQmq)
 
-#### Case 2: Pyogenic confusion
+#### Case 3: [Is that an irregular border?](https://siim.md.ai/chat/share/report_gX2EG7KE4W)
 
-https://siim.md.ai/chat/share/report_j78EPqoQmq
+#### Case 4: [Across the room diagnosis](https://siim.md.ai/chat/share/report_N7K5lKKoMD)
 
-#### Case 3: Is that an irregular border?
-
-https://siim.md.ai/chat/share/report_gX2EG7KE4W
-
-#### Case 4: Across the room diagnosis
-
-https://siim.md.ai/chat/share/report_N7K5lKKoMD
-
-#### Case 5: A Hairy Situation
-
-https://siim.md.ai/chat/share/report_jek5YKNEb1
+#### Case 5: [A Hairy Situation](https://siim.md.ai/chat/share/report_jek5YKNEb1)
 
 
 ### Multi-specialty (Veronica, Matthew, Adam)
 
-#### Case 1: Out at the beach
-
-https://siim.md.ai/chat/share/report_gGJvawoDR4
+#### Case 1: [Out at the beach](https://siim.md.ai/chat/share/report_gGJvawoDR4)
 
 ## 3. Discussion
 
