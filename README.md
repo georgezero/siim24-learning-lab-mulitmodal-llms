@@ -45,15 +45,15 @@ https://siim.md.ai/chat/share/report_pbxvbx1oKG
 
 ### Pathology (Matthew Hanna)
 
-#### Case 1
+#### Case 1: Is that a lump?
 
 https://siim.md.ai/chat/share/report_43D5B0xEeM
 
-#### Case 2
+#### Case 2: Going back to Gleason
 
 https://siim.md.ai/chat/share/report_2akEeNnowl
 
-#### Case 3
+#### Case 3: Polyps polyp polyps
 
 https://siim.md.ai/chat/share/report_gGJvawoDR4
 
@@ -80,10 +80,11 @@ https://siim.md.ai/chat/share/report_N7K5lKKoMD
 https://siim.md.ai/chat/share/report_jek5YKNEb1
 
 
-## Multi-specialty (Veronica, Matthew, Adam)
+### Multi-specialty (Veronica, Matthew, Adam)
+
+#### Case 1: Out at the beach
 
 https://siim.md.ai/chat/share/report_gGJvawoDR4
-
 
 ## 3. Discussion
 
@@ -94,6 +95,11 @@ Open discussion for multimodal LLM use cases in healthcare
 ## Contact
 
 ```contact
-george4@xsd.ai
+george@xsd.ai
 ```
+
+--
+(QR code for this page / repository)
+
+![image](https://github.com/georgezero/siim24-learning-lab-mulitmodal-llms/assets/12178283/9ba217a3-4018-4426-b54e-4f5d8fd36550)
 
