@@ -35,6 +35,10 @@ George Shih
 
 #### Case 4: [Stop distracting me!](https://siim.md.ai/chat/share/report_pbxvbx1oKG)
 
+### Case 2
+
+https://siim.md.ai/chat/share/report_nYyonAJE4B
+
 ### Pathology (Matthew Hanna)
 
 #### Case 1: [Is that a lump?](https://siim.md.ai/chat/share/report_43D5B0xEeM)
