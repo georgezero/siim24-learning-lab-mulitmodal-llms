@@ -41,8 +41,17 @@ George Shih
 
 #### Case 2: [Going back to Gleason](https://siim.md.ai/chat/share/report_2akEeNnowl)
 
-#### Case 3: [Polyps polyp polyps](https://siim.md.ai/chat/share/report_gGJvawoDR4)
+#### Case 3: [Polyps polyp polyps](https://siim.md.ai/chat/share/report_Nae57myEXz)
 
+<<<<<<< HEAD
+https://siim.md.ai/chat/share/report_2akEeNnowl
+
+#### Case 3
+
+https://siim.md.ai/chat/share/report_Nae57myEXz
+
+=======
+>>>>>>> aa78409403c57e5a809802cd714fcee1eb1e3846
 ### Dermatology (Veronica Rotemberg)
 
 #### Case 1: [Mucosal challenges](https://siim.md.ai/chat/share/report_3nW5WZoKY1)
