@@ -77,3 +77,7 @@ george@xsd.ai
 
 ![image](https://github.com/georgezero/siim24-learning-lab-mulitmodal-llms/assets/12178283/9ba217a3-4018-4426-b54e-4f5d8fd36550)
 
+## Landing
+
+https://siim.md.ai/chat/share/report_xrN5pWPob9
+
