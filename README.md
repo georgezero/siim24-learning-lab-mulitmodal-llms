@@ -35,6 +35,8 @@ George Shih
 
 #### Case 4: [Stop distracting me!](https://siim.md.ai/chat/share/report_pbxvbx1oKG)
 
+#### SIIM 2025 Special Case [Feeling dizzy]
+
 ### Pathology (Matthew Hanna)
 
 #### Case 1: [Is that a lump?](https://siim.md.ai/chat/share/report_43D5B0xEeM)
